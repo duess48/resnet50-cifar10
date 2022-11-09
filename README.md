@@ -39,11 +39,11 @@ transforms.RandomCrop(32, padding=4)
 'frog': 		5000			1000
 'truck': 		5000			1000
 'deer': 		5000			1000
-'automobile': 	5000			1000
+'automobile':   	5000			1000
 'bird': 		5000			1000
 'horse': 		5000			1000
 'ship': 		5000			1000
 'cat': 			5000			1000
 'dog': 			5000			1000
-'airplane': 	5000			1000
+'airplane': 	    5000			1000
 ```
