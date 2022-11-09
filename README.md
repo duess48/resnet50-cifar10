@@ -24,6 +24,8 @@ shape_aug = torchvision.transforms.RandomResizedCrop(
     (200, 200), scale=(0.1, 1), ratio=(0.5, 2))
 apply(img, shape_aug)
 ```
+![1061667985069_ pic](https://user-images.githubusercontent.com/63033807/200788764-d6f1f9aa-4d8b-4b97-88e8-42bf9bbb22a5.jpg)
+
 #### c.颜色改变
 改变图像颜色的四个方面：亮度、对比度、饱和度和色调。通常来说，这些操作不会改变图像的类别，但能增强模型分类的鲁棒性。
 
