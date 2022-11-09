@@ -249,7 +249,7 @@ scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=60)
 ```
 
 ## 三、结果展示
-经过`60`代的训练，模型在训练集上的acc达到`97.81%`，在测试集上的acc达到`69.73%`。
+经过`60`代的训练，模型在训练集上的acc达到`97.81%`，在测试集上的acc达到`91.13%`。
 以下为最后`10`个epoch的训练结果：
 ```python
 epoches: 50 train_loss: 0.1613 train_acc: 0.9437  --> test_loss: 0.3568 test_acc: 0.8886  73.6s
