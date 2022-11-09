@@ -45,5 +45,5 @@ transforms.RandomCrop(32, padding=4)
 'ship': 		5000			1000
 'cat': 			5000			1000
 'dog': 			5000			1000
-'airplane': 	    5000			1000
+'airplane': 	        5000			1000
 ```
