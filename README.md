@@ -47,3 +47,4 @@ transforms.RandomCrop(32, padding=4)
 'dog': 			5000			1000
 'airplane': 	        5000			1000
 ```
+![1051667983609_ pic](https://user-images.githubusercontent.com/63033807/200782893-8bfe2a60-57da-4012-ba50-27a59538398b.jpg)
